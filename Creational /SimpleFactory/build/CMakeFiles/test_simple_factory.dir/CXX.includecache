@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/clint.cpp
+simple_factory.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/simple_factory.hpp
+iostream
+-
+
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation.hpp
+
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation_add.hpp
+operation.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation.hpp
+
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation_div.hpp
+operation.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation.hpp
+stdexcept
+-
+
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation_mul.hpp
+operation.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation.hpp
+
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation_sub.hpp
+operation.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation.hpp
+
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/simple_factory.hpp
+string
+-
+operation_add.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation_add.hpp
+operation_div.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation_div.hpp
+operation_mul.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation_mul.hpp
+operation_sub.hpp
+/home/manjaro/WorkSpace/DesignPatterns/Creational /SimpleFactory/operation_sub.hpp
+
