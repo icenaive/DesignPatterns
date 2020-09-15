@@ -10,5 +10,5 @@ int main() {
     delete girl;
     delete proxy;
 
-    return 0;
+    return 0;\
 }
