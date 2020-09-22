@@ -33,7 +33,7 @@ public:
     LeiFeng* create_leifeng() {
         LeiFeng *leifeng = new Undergraduate();
         return leifeng;
-}
+    }
 };
 
 class VolunteerFactory : public IFactory{
